@@ -3,13 +3,8 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-Welcome! My name is Inle Bush. 
+My name is Inle Bush. I am a chronic overthinker, I overthought this about page. I have more questions than answers. I present the questions and answers I want you to see in this blog. 
 
-I am an undergraduate studying biology, computer science, and mathematics at Cornell University. I'm interested 
+I am an undergraduate who gardens, programs, writes proofs, and dissects flies at Cornell University.
 
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+This website is powered by **[fastpages](https://github.com/fastai/fastpages)** a blogging platform that natively supports Jupyter notebooks in addition to other formats.
